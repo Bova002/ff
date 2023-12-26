@@ -9,10 +9,7 @@ font-style: italic;
 font-weight: bold;
 }
 
-.app {
-  width: 1280px;
-  margin: auto;
-}
+
 
 .quotes-container {
   display: flex;
